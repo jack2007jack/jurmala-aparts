@@ -28,6 +28,7 @@ while True:
     choice = input("Enter your choice (1-6): ")
 
     if choice == '1':
+        a = input("Enter your choice:")
         # https://www.w3schools.com/python/python_lists_access.asp
         pass
     elif choice == '2':
